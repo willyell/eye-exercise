@@ -73,7 +73,7 @@ export default function EyeExerciseDashboard() {
         <p>Imagine fusing the barrels on either side. Red is left eye, green is right eye.</p>
         <div className="flex justify-center space-x-6 font-mono text-3xl">
           <div className="text-red-600">⭕ ⭕ ⭕</div>
-          <div className="text-green-600">⭕ ⭕ ⭕</div>
+          <div className="text-green-600">🟢 🟢 🟢</div>
         </div>
       </div>
 
@@ -97,4 +97,3 @@ export default function EyeExerciseDashboard() {
     </div>
   );
 }
-
